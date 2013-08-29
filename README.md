@@ -7,9 +7,9 @@ GENRE - Top Down Scrolling Shooter
 
 NAME - Assault on the Death Star
 
-Gameplay is based off the Star Wars series. The player will travel through space towards the Death Star and then along the Death Star's face when approaching the vulnerable thermal exhuast. A direct hit on the thermal exhuast will destroy the death star. A vengeful villain then arrives, serving as the final boss.
+Gameplay is based off the Star Wars series. The player will travel through space towards the Death Star and then along the Death Star's face when approaching the vulnerable thermal exhaust. A direct hit on the thermal exhaust will destroy the death star. A vengeful villain then arrives, serving as the final boss.
 
-GOAL - nagivate through space, destroy the death star, and beat the final boss.
+GOAL - navigate through space, destroy the death star, and beat the final boss.
 
 MECHANICS - intuitive controls will be used: arrow keys for UP, DOWN, LEFT, RIGHT, and SPACE BAR to fire bullets.
 
