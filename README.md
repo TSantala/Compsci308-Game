@@ -1,6 +1,7 @@
 Compsci308-Game
 ===============
 Timo Santala - Game Proposal 
+
 August 28, 2013
 
 GENRE - Top Down Scrolling Shooter
