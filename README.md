@@ -20,3 +20,8 @@ DIFFERENT LEVELS - there will be multiple stages making up the approach the Deat
 
 CHEAT CODES - codes will be available for additional lives and toggle-able invulnerability.
 
+ONELIFE = add life (max 50).
+TENLIFE = add ten lives (max 50).
+DEFENSE = toggle invulnerability.
+SLOW-MO = slow down skill-shot level (level 2).
+
